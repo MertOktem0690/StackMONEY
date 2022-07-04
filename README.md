@@ -1,2 +1,2 @@
-# Mert_OKTEM_StackMONEY
+# StackMONEY
  NOOPE CaseStudy Project
